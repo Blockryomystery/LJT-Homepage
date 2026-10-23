@@ -21,8 +21,8 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 
 - **Feb 2025 – Present** — Research Intern at [MINIMAX](https://www.minimaxi.com/)
 - **Sep 2024** — Started PhD at HKUST NLP Group
-- **Jun 2024 – Sep 2024** — Research Intern at [Tencent WXG](https://wechat.com/)
-- **Jun 2023 – Dec 2023** — Research Intern at [Shanghai AI Lab](https://www.shlab.org.cn/)
+- **Jun 2024 – Sep 2024** — Research Intern at [Tencent WXG](https://wechat.com/), advised by Zifei Shan
+- **Jun 2023 – Dec 2023** — Research Intern at [Shanghai AI Lab](https://www.shlab.org.cn/), advised by Prof. Yu Cheng
 
 ## Education
 
@@ -32,6 +32,11 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 ## Awards
 
 - **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University.
+
+## Skills
+
+- **Programming:** Python, PyTorch
+- **Research Areas:** Large Language Models, Vision-Language Models, Reinforcement Learning, Model Interpretability
 
 ## Contact
 

@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "First-year PhD candidate at HKUST NLP Group. Research interests: LLM Reasoning & RL, VLM Hallucination, LLM Truthfulness & Interpretability."
 url                      : https://Blockryomystery.github.io
-baseurl                  : ""
-repository               : "Blockryomystery/academicpages.github.io"
+baseurl                  : "/LJT-Homepage"
+repository               : "Blockryomystery/LJT-Homepage"
 
 # Site Author
 author:
@@ -26,7 +26,7 @@ author:
   bio              : "First-year PhD candidate at HKUST NLP Group. Interested in LLM Reasoning & RL, VLM Hallucination, and LLM Truthfulness & Interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
-  uri              : "https://Blockryomystery.github.io"
+  uri              : "https://Blockryomystery.github.io/LJT-Homepage"
   email            : "jliugi@connect.ust.hk"
 
   # Academic websites
