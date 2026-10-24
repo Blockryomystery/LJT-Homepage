@@ -35,13 +35,26 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 
 ## Selected Publications
 
-<ul>
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-</ul>
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** *(First Author, 2025)*  
+  Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
+  [[arXiv]](https://arxiv.org/abs/2501.05093) [[GitHub]](https://github.com/Vicent0205/SynLogic)
 
-See the [Publications page](/LJT-Homepage/publications/) for the full list.
+- **On the Perception Bottleneck of VLMs for Chart Understanding** *(First Author, 2025)*  
+  Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
+  [[arXiv]](https://arxiv.org/abs/2501.01214) [[GitHub]](https://github.com/Vicent0205/Vision4Chart)
+
+- **On the Universal Truthfulness Hyperplane Inside LLMs** *(First Author, EMNLP 2024)*  
+  Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He  
+  [[arXiv]](https://arxiv.org/abs/2410.01260) [[GitHub]](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** *(ICML 2024)*  
+  Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
+
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** *(NeurIPS 2023)*  
+  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** *(NeurIPS 2023)*  
+  Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
 
 ## Skills
 
