@@ -3,7 +3,7 @@ title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for 
 collection: publications
 category: conferences
 permalink: /publication/2024-incontext-sharpness
-excerpt: 'ICML 2024 paper on using in-context sharpness as alerts for hallucination mitigation.'
+excerpt: ' '
 date: 2024-07-01
 venue: 'ICML 2024'
 paperurl: 'https://proceedings.mlr.press/v235/chen24bi.html'
