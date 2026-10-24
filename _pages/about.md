@@ -33,6 +33,16 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 
 - **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University.
 
+## Selected Publications
+
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+</ul>
+
+See the [Publications page](/LJT-Homepage/publications/) for the full list.
+
 ## Skills
 
 - **Programming:** Python, PyTorch
