@@ -13,16 +13,16 @@ I am a first-year **PhD candidate** at the [HKUST NLP Group](https://nlp.hkust.u
 
 My research focuses on **Natural Language Processing (NLP)** and **Machine Learning**. I am particularly interested in:
 
-- **LLM Reasoning and Reinforcement Learning** — improving the reasoning capabilities of large language models through reinforcement learning and verifiable data synthesis.
-- **Hallucination in Vision-Language Models (VLM)** — understanding and mitigating perception bottlenecks and hallucination in multimodal models.
-- **LLM Truthfulness and Interpretability** — uncovering internal representations related to truthfulness and developing more interpretable language models.
+- **LLM Reasoning and Reinforcement Learning**
+- **Hallucination in Vision-Language Models (VLM)**
+- **LLM Truthfulness and Interpretability**
 
 ## News
 
 - **Feb 2025 – Present** — Research Intern at [MINIMAX](https://www.minimaxi.com/)
 - **Sep 2024** — Started PhD at HKUST NLP Group
-- **Jun 2024 – Sep 2024** — Research Intern at [Tencent WXG](https://wechat.com/), advised by Zifei Shan
-- **Jun 2023 – Dec 2023** — Research Intern at [Shanghai AI Lab](https://www.shlab.org.cn/), advised by Prof. Yu Cheng
+- **Jun 2024 – Sep 2024** — Research Intern at [Tencent WXG](https://wechat.com/)
+- **Jun 2023 – Dec 2023** — Research Intern at [Shanghai AI Lab](https://www.shlab.org.cn/)
 
 ## Education
 
@@ -55,11 +55,6 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 
 - **Composing Parameter-Efficient Modules with Arithmetic Operations** *(NeurIPS 2023)*  
   Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
-
-## Skills
-
-- **Programming:** Python, PyTorch
-- **Research Areas:** Large Language Models, Vision-Language Models, Reinforcement Learning, Model Interpretability
 
 ## Contact
 
