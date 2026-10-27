@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), advised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.Eng. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in June 2024.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, advised by Prof. Junxian He. I received my B.Eng. degree from Shanghai Jiao Tong University in June 2024.
 
 My research focuses on natural language processing and machine learning. I am particularly interested in:
 - LLM Reasoning and Reinforcement Learning
@@ -40,4 +40,4 @@ Feel free to contact me at [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 - **Composing Parameter-Efficient Modules with Arithmetic Operations**  
   Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. *NeurIPS, 2023.*
 
-See the full list on the [publications page](/publications/).
+See the full list on the publications page.
